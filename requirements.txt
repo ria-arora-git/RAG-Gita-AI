@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentence-transformers
+faiss-cpu
+pdfplumber
+numpy
+gtts
+SpeechRecognition
+pyaudio
