@@ -8,3 +8,4 @@ numpy
 gtts
 SpeechRecognition
 pyaudio
+ollama
